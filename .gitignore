@@ -2,3 +2,6 @@ _site
 .sass-cache
 .jekyll-metadata
 node_modules
+
+# Exclude commercial fonts from public repository (due to webfont licensing)
+assets/fonts/geomanist
